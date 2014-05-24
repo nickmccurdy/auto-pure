@@ -35,8 +35,6 @@ Features
 Pure is meant to be a starting point for every website or web app. We take care
 of all the CSS work that every site needs, without making it look cookie-cutter:
 
-* A responsive grid that can be customized to your needs.
-
 * A solid base built on [Normalize.css][] to fix cross-browser compatibility
   issues.
 
