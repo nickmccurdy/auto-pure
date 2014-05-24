@@ -43,8 +43,6 @@ of all the CSS work that every site needs, without making it look cookie-cutter:
 * Styles for vertical and horizontal menus, including support for dropdown
   menus.
 
-* Useful form alignments that look great on all screen sizes.
-
 * Common table styles.
 
 * An extremely minimalist look that is super-easy to customize.
