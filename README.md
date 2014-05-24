@@ -40,9 +40,6 @@ of all the CSS work that every site needs, without making it look cookie-cutter:
 
 * Consistently styled buttons that work with `<button>` elements.
 
-* Styles for vertical and horizontal menus, including support for dropdown
-  menus.
-
 * Common table styles.
 
 * An extremely minimalist look that is super-easy to customize.

@@ -67,24 +67,12 @@ grunt.initConfig({
                     'build/forms-r.css'
                 ]},
 
-                {'build/menus-nr.css': [
-                    'build/menus-core.css',
-                    'build/menus.css',
-                    'build/menus-paginator.css'
-                ]},
-
-                {'build/menus.css': [
-                    'build/menus-nr.css',
-                    'build/menus-r.css'
-                ]},
-
                 // Rollups
 
                 {'build/<%= pkg.name %>.css': [
                     'build/base.css',
                     'build/buttons.css',
                     'build/forms.css',
-                    'build/menus.css',
                     'build/tables.css'
                 ]},
 
@@ -92,7 +80,6 @@ grunt.initConfig({
                     'build/base.css',
                     'build/buttons.css',
                     'build/forms-nr.css',
-                    'build/menus-nr.css',
                     'build/tables.css'
                 ]}
             ]
@@ -109,7 +96,6 @@ grunt.initConfig({
         base   : ['src/base/css/*.css'],
         buttons: ['src/buttons/css/*.css'],
         forms  : ['src/forms/css/*.css'],
-        menus  : ['src/menus/css/*.css'],
         tables : ['src/tables/css/*.css']
     },
 
