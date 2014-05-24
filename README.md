@@ -45,7 +45,7 @@ of all the CSS work that every site needs, without making it look cookie-cutter:
 
 * Useful form alignments that look great on all screen sizes.
 
-* Various common table styles.
+* Common table styles.
 
 * An extremely minimalist look that is super-easy to customize.
 
