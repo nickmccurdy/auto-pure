@@ -38,7 +38,7 @@ of all the CSS work that every site needs, without making it look cookie-cutter:
 * A solid base built on [Normalize.css][] to fix cross-browser compatibility
   issues.
 
-* Consistently styled buttons that work with `<a>` and `<button>` elements.
+* Consistently styled buttons that work with `<button>` elements.
 
 * Styles for vertical and horizontal menus, including support for dropdown
   menus.

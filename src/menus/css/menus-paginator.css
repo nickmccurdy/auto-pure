@@ -32,14 +32,14 @@
 }
 
 
-.pure-paginator .pure-button {
+.pure-paginator button {
     border-radius: 0;
     padding: 0.8em 1.4em;
     vertical-align: top;
     height: 1.1em;
 }
-.pure-paginator .pure-button:focus,
-.pure-paginator .pure-button:active {
+.pure-paginator button:focus,
+.pure-paginator button:active {
     outline-style: none;
 }
 .pure-paginator .prev,
